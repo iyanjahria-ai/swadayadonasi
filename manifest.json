@@ -1,7 +1,7 @@
 {
-  "name": "SISTEM INFORMASI RT 05",
-  "short_name": "SI RT 05",
-  "description": "Aplikasi Layanan dan Informasi Warga RT 05",
+  "name": "SISTEM INFORMASI RT 11",
+  "short_name": "SI RT 11",
+  "description": "Aplikasi Layanan dan Informasi Warga RT 11",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
